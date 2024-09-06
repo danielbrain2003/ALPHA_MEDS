@@ -26,11 +26,11 @@ Integration of beauty and wellness tips, helping users maintain a holistic appro
 
 #UI/UX Design:
 
--> UI Sketch (Designed in Miro): The app's structure and flow were initially conceptualized in Miro, with attention to clarity, intuitive navigation, and a clean, professional look.
--> UI & UX Design (Developed in Figma): Figma was used to design a visually appealing and user-friendly interface. The layout emphasizes ease of use, with clear pathways to product -> ---> purchasing, appointment booking, and account management.
--> Minimalistic design with healthcare-themed colors to instill trust and comfort.
--> Thoughtfully designed buttons, menus, and icons for a smooth user journey.
--> Focus on responsive design to ensure optimal performance across different devices.
+1.UI Sketch (Designed in Miro): The app's structure and flow were initially conceptualized in Miro, with attention to clarity, intuitive navigation, and a clean, professional look.
+2. UI & UX Design (Developed in Figma): Figma was used to design a visually appealing and user-friendly interface. The layout emphasizes ease of use, with clear pathways to product purchasing, appointment booking, and account management.
+3.Minimalistic design with healthcare-themed colors to instill trust and comfort.
+4.Thoughtfully designed buttons, menus, and icons for a smooth user journey.
+5.Focus on responsive design to ensure optimal performance across different devices.
 
 #User Benefits:
 
