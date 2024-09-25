@@ -32,6 +32,8 @@ Integration of beauty and wellness tips, helping users maintain a holistic appro
 4.Thoughtfully designed buttons, menus, and icons for a smooth user journey.
 5.Focus on responsive design to ensure optimal performance across different devices.
 
+<https://www.figma.com/design/r6OBv7dnvSbk4farwDmf00/NM_ALPHA_MEDS(FIGMA)?node-id=0-1&t=O5T0wAM9KKlaGK37-1>
+
 #User Benefits:
 
 Convenience: Easily manage health, beauty, and medical needs from a single application.
